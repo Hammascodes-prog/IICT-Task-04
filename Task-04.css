@@ -12,7 +12,7 @@ padding: 5px;
 text-align: right;
 color:teal;
 }
-#side{
+#corner{
 background-color: lightblue;
 width: 180px;
 float: left;
@@ -35,7 +35,7 @@ border:3px solid blue;
 height:170px;
 }
 .heading1{color:blue;}
-.img1 {
+.imgade1 {
 float: right;
 width: 150px;
 
@@ -47,7 +47,7 @@ color:purple;
 border:3px solid blue;
 }
 .heading2{color:blue;}
-.img2 {
+.imgage2 {
 float:right;
 width: 150px;
 padding: 15px;
