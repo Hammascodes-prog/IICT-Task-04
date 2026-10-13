@@ -1,0 +1,54 @@
+body {background-color: lightgrey;}
+#div1{
+background-color: white;
+width: 800px;
+height:680px;
+margin: auto;
+padding: 20px;
+}
+#div2{
+background-color: lightblue;
+padding: 5px;
+text-align: right;
+color:teal;
+}
+#side{
+background-color: lightblue;
+width: 180px;
+float: left;
+padding: 15px;
+margin-right: 20px;
+color:red;
+border:3px solid blue;
+}
+.head1{color:teal;}
+.list1{color:white;}
+#div3 {
+width: 540px;
+float: left;
+}
+.spat {
+padding: 15px;
+background-color:lightblue;
+color:purple;
+border:3px solid blue;
+height:170px;
+}
+.heading1{color:blue;}
+.img1 {
+float: right;
+width: 150px;
+
+}
+.cup{
+padding: 20px;
+background-color:lightblue;
+color:purple;
+border:3px solid blue;
+}
+.heading2{color:blue;}
+.img2 {
+float:right;
+width: 150px;
+padding: 15px;
+}
